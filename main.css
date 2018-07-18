@@ -1,0 +1,12 @@
+.bred {
+    border: 2px solid red;
+}
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+#ETHero {
+    height: 100vh;
+    background-image: linear-gradient(to right bottom, #005abc, #0061b0, #00649f, #05668d, #33667c);
+}
